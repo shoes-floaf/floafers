@@ -114,3 +114,6 @@ th, td {
   color: red; /* צבע הטקסט אדום */
  }
  
+span{
+  font-size: 15px;
+}
