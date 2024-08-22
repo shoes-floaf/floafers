@@ -10,7 +10,7 @@ export default function About(){
     <p>עבור כל דגם מופיע מידת נעל שנותרה</p>
     <p>בחרי לך </p>
     <p>ושלחי     <a href="mailto:toysway1@gmail.com?subject=הזמנת%20נעל%20פלופרס" target="_blank">   למייל זה    </a>
-   <span> (toysway1@gmail.com)</span>  את דגם הנעל והמידה הרצויה    </p>
+   <span> toysway1@gmail.com</span>  את דגם הנעל והמידה הרצויה    </p>
       <p>ואת שם המשפחה והעיר </p>
       <p>* משלוחים בתיאום עד יום שני כ"ב אב</p>
      </>
