@@ -9,12 +9,12 @@ function App() {
         <table>
           <tr>
             <th>c4</th>
-            <th  className='azal'>
+            <th  className='azal1'>
               c5   <div class="ellipse-outline">אזל!</div>
             </th>
-            <th className='azal'>c6 <div class="ellipse-outline">אזל!</div></th>
-            <th className='azal'>c7 <div class="ellipse-outline">אזל!</div></th>
-            <th className='azal'>c8 <div class="ellipse-outline">אזל!</div></th>
+            <th className='azal1'>c6 <div class="ellipse-outline">אזל!</div></th>
+            <th className='azal1'>c7 <div class="ellipse-outline">אזל!</div></th>
+            <th className='azal1'>c8 <div class="ellipse-outline">אזל!</div></th>
             <th>c9</th>
             <th>c10</th>
             <th>c11</th>
