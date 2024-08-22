@@ -11,6 +11,7 @@ export default function About(){
     <p>בחרי לך </p>
     <p>ושלחי     <a href="mailto:toysway1@gmail.com?subject=הזמנת%20נעל%20פלופרס" target="_blank">    למייל זה    </a>
       את דגם הנעל והמידה הרצויה  </p>
-      <p>* משלוחים בתיאום</p>
+      <p>ואת שם המשפחה והעיר </p>
+      <p>* משלוחים בתיאום עד יום שני כ"ב אב</p>
      </>
 }
