@@ -7,21 +7,24 @@ function App() {
     <>
       <header>
         <table>
+          <tbody>
+
+        
           <tr>
             <th>c4</th>
             <th  className='azal1'>
-              c5   <div class="ellipse-outline">אזל!</div>
+              c5   <div className="ellipse-outline">אזל!</div>
             </th>
-            <th className='azal1'>c6 <div class="ellipse-outline">אזל!</div></th>
-            <th className='azal1'>c7 <div class="ellipse-outline">אזל!</div></th>
-            <th className='azal1'>c8 <div class="ellipse-outline">אזל!</div></th>
+            <th className='azal1'>c6 <div className="ellipse-outline">אזל!</div></th>
+            <th className='azal1'>c7 <div className="ellipse-outline">אזל!</div></th>
+            <th>c8</th>
             <th>c9</th>
             <th>c10</th>
             <th>c11</th>
             <th>c12</th>
             <th>c13</th>
             <th>j1</th>
-            <th class="wide-column">
+            <th className="wide-column">
               <b>מידת floafers</b>
             </th>
           </tr>
@@ -37,15 +40,16 @@ function App() {
             <td>30</td>
             <td>31.5</td>
             <td>32.5</td>
-            <td class="wide-column">
+            <td className="wide-column">
               <b>מידת נעל בישראל</b>
             </td>
           </tr>
+          </tbody>
         </table>
 
-        <div class="ellipse">
+        <div className="ellipse">
           <p className="h5"> כל המידות </p>
-          <p className="h4"> 150 ש"ח בלבד</p>
+          <p className="h4"> 100 ש"ח בלבד</p>
         </div>
       </header>
 
