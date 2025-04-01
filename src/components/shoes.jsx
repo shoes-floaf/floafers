@@ -1,14 +1,14 @@
-import { React } from 'react'
+import React from 'react'
 
 export default function Shoes() {
   return (
     <>
       <div className="container">
         <div className="card">
-          <img src="pic/afarsek.png" alt="purpule" />
+          <img src="pic/purpule.png" alt="purpule" />
           <p className="degem">דגם 13</p>
           <p><b> נותר במידות: </b></p>
-          <p>c4 ,c8 , c9  ,  c10  , c11  ,  c12  , c13</p>
+          <p>c4 , c8 , c9  ,  c10  , c11  ,  c12  , c13</p>
         </div>
 
         <div className="card">
@@ -124,7 +124,7 @@ export default function Shoes() {
 
 
         <div className="card">
-<img src="pic/black.png" alt="dfghj" />
+          <img src="pic/pinkK.png" alt="pinkK" />
           <p className="degem">דגם 29</p>
           <p><b> נותר במידות: </b></p>
           <p>   c13  ,  j1  </p>
