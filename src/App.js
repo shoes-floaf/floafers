@@ -49,9 +49,9 @@ function App() {
 
         <div className="ellipse">
           <p className="h5"> כל המידות </p>
-          <p className="h4"> 100 ש"ח בלבד</p>
+          <p className="h4"> 150 ש"ח בלבד</p>
         </div>
-      </header>
+      </header> 
 
       <About />
       <Shoes></Shoes>
