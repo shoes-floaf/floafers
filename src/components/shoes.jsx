@@ -54,7 +54,7 @@ export default function Shoes() {
           <img src="pic/dolphin.png" alt="dolphin" />
           <p className="degem">דגם 19</p>
           <p><b> נותר במידות: </b></p>
-          <p> c4 , c9  , c10  ,  c11  ,  c12  ,  c13  , j1  </p>
+          <p> c4  , c10  ,  c11  ,  c12  ,  c13  , j1  </p>
         </div>
 
 
