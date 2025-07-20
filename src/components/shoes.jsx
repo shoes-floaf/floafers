@@ -130,7 +130,7 @@ export default function Shoes() {
           <img src="pic/brownk.png" alt="pgen" />
           <p className="degem">דגם 34</p>
           <p><b> נותר במידות: </b></p>
-          <p>  c13  </p>
+          <p>  c12, c13  </p>
         </div>
 
       </div>
