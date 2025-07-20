@@ -46,7 +46,7 @@ export default function Shoes() {
           <img src="pic/brown.png" alt="brown" />
           <p className="degem">דגם 18</p>
           <p><b> נותר במידות: </b></p>
-          <p> c4 , c9 , c10 ,  c11  , c13 </p>
+          <p> c4 ,  c11  , c13 </p>
         </div>
 
 
@@ -62,7 +62,7 @@ export default function Shoes() {
           <img src="pic/grayYellow.png" alt="grayYellow" />
           <p className="degem">דגם 20</p>
           <p><b> נותר במידות: </b></p>
-          <p>  c11   </p>
+          <p>  c11 , c13  </p>
         </div>
 
         <div className="card">
@@ -97,7 +97,7 @@ export default function Shoes() {
           <img src="pic/chayal.png" alt="chayal" />
           <p className="degem">דגם 27</p>
           <p><b> נותר במידות: </b></p>
-          <p>  c10  ,  c11  ,  c12  ,  c13   </p>
+          <p>   c11  ,  c12  ,  c13   </p>
         </div>
         <div className="card">
           <img src="pic/lightgray.png" alt="lightgray" />
@@ -108,10 +108,10 @@ export default function Shoes() {
 
 
         <div className="card">
-          <img src="pic/pinkK.png" alt="pinkK" />
+          <img src="pic/camelK.png" alt="camelK" />
           <p className="degem">דגם 29</p>
           <p><b> נותר במידות: </b></p>
-          <p>   j1  </p>
+          <p>   c13  </p>
         </div>
 
         <div className="card">
@@ -121,8 +121,14 @@ export default function Shoes() {
           <p>   c12  ,  c13  </p>
         </div>
         <div className="card">
-          <img src="pic/pgen.png" alt="pgen" />
+          <img src="pic/green.png" alt="pgen" />
           <p className="degem">דגם 33</p>
+          <p><b> נותר במידות: </b></p>
+          <p>  c10  </p>
+        </div>
+        <div className="card">
+          <img src="pic/brownk.png" alt="pgen" />
+          <p className="degem">דגם 34</p>
           <p><b> נותר במידות: </b></p>
           <p>  c13  </p>
         </div>
