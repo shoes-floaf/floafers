@@ -8,7 +8,7 @@ export default function Shoes() {
           <img src="pic/purpule.png" alt="purpule" />
           <p className="degem">דגם 13</p>
           <p><b> נותר במידות: </b></p>
-          <p>c4  ,c10 , c11  ,  c12 , c13 </p>
+          <p> c10 , c11  ,  c12 , c13 </p>
         </div>
 
         <div className="card">
@@ -103,7 +103,7 @@ export default function Shoes() {
           <img src="pic/lightgray.png" alt="lightgray" />
           <p className="degem">דגם 28</p>
           <p><b> נותר במידות: </b></p>
-          <p>  c10  ,  c11  ,  c12  ,  c13 </p>
+          <p>   c11  ,  c12  ,  c13 </p>
         </div>
 
 
@@ -111,7 +111,7 @@ export default function Shoes() {
           <img src="pic/camelK.png" alt="camelK" />
           <p className="degem">דגם 29</p>
           <p><b> נותר במידות: </b></p>
-          <p>   c13  </p>
+          <p>   c12  </p>
         </div>
 
         <div className="card">
