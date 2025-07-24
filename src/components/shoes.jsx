@@ -38,7 +38,7 @@ export default function Shoes() {
           <img src="pic/whiteGray.png" alt="whiteGray" />
           <p className="degem">דגם 17</p>
           <p><b> נותר במידות: </b></p>
-          <p>   c11  ,  c12   </p>
+          <p>   c11  </p>
         </div>
 
 
