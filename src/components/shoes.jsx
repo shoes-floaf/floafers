@@ -37,7 +37,7 @@ export default function Shoes() {
           <p>
             <b> נותר במידות: </b>
           </p>
-          <p> c10 , c11 , c12 , c13 </p>
+          <p> c10 , c11 , c12 , c13  </p>
         </div>
 
         <div className="card">
@@ -91,7 +91,7 @@ export default function Shoes() {
           <p>
             <b> נותר במידות: </b>
           </p>
-          <p> c4 , c9 </p>
+          <p> c4 </p>
         </div>
 
         <div className="card">
