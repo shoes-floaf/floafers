@@ -18,7 +18,7 @@ function App() {
             <th className='azal1'>c6 <div className="ellipse-outline">אזל!</div></th>
             <th className='azal1'>c7 <div className="ellipse-outline">אזל!</div></th>
             <th className='azal1'>c8 <div className="ellipse-outline">אזל!</div></th>
-            <th>c9</th>
+            <th className='azal1'>c9 <div className="ellipse-outline">אזל!</div></th>
             <th>c10</th>
             <th>c11</th>
             <th>c12</th>
