@@ -9,8 +9,7 @@ export default function About(){
     <p>נותרו זוגות  בודדים , הזמינו מהר לפני שייגמר ...</p>
     <p>עבור כל דגם מופיע מידת נעל שנותרה</p>
     <p>בחרי לך </p>
-    {/* <p>ושלחי     <a href="mailto:shoe19532@gmail.com?subject=הזמנת%20נעל%20פלופרס" target="_blank">   למייל זה    </a>
-   <span> shoe19532@gmail.com</span>  את דגם הנעל והמידה הרצויה    </p> */}
-   <p>והזמיני במספר 0548419666 בין השעות 21:00 - 19:00 עד יום שני ז' תשרי</p>
+    <p>ושלחי     <a href="mailto:shoe19532@gmail.com?subject=הזמנת%20נעל%20פלופרס" target="_blank">   למייל זה    </a>
+   <span> shoe19532@gmail.com</span>  את דגם הנעל והמידה הרצויה    </p>
      </>
 }
