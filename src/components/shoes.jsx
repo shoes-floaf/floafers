@@ -28,7 +28,7 @@ export default function Shoes() {
           <p>
             <b> נותר במידות: </b>
           </p>
-          <p> c11 , j1</p>
+          <p> c11</p>
         </div>
 
         <div className="card">
