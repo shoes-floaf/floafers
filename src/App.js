@@ -23,7 +23,6 @@ function App() {
             <th>c11</th>
             <th>c12</th>
             <th>c13</th>
-            <th>j1</th>
             <th className="wide-column">
               <b>מידת floafers</b>
             </th>
@@ -39,7 +38,6 @@ function App() {
             <td>28.5</td>
             <td>30</td>
             <td>31.5</td>
-            <td>32.5</td>
             <td className="wide-column">
               <b>מידת נעל בישראל</b>
             </td>
