@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/floafers/static/css/main.2a08c2af.css",
-    "main.js": "/floafers/static/js/main.a9ae52cd.js",
+    "main.js": "/floafers/static/js/main.e68ae533.js",
     "static/js/453.37a156e5.chunk.js": "/floafers/static/js/453.37a156e5.chunk.js",
     "index.html": "/floafers/index.html",
     "main.2a08c2af.css.map": "/floafers/static/css/main.2a08c2af.css.map",
-    "main.a9ae52cd.js.map": "/floafers/static/js/main.a9ae52cd.js.map",
+    "main.e68ae533.js.map": "/floafers/static/js/main.e68ae533.js.map",
     "453.37a156e5.chunk.js.map": "/floafers/static/js/453.37a156e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a08c2af.css",
-    "static/js/main.a9ae52cd.js"
+    "static/js/main.e68ae533.js"
   ]
 }
