@@ -101,14 +101,6 @@ export default function Shoes() {
           </p>
           <p> c11 </p>
         </div>
-        <div className="card">
-          <img src="pic/lightgray.png" alt="lightgray" />
-          <p className="degem">דגם 28</p>
-          <p>
-            <b> נותר במידות: </b>
-          </p>
-          <p>  c12 </p>
-        </div>
 
         <div className="card">
           <img src="pic/camelK.png" alt="camelK" />
