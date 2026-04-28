@@ -55,7 +55,7 @@ export default function Shoes() {
           <p>
             <b> נותר במידות: </b>
           </p>
-          <p> c11 , c12 </p>
+          <p> c12 </p>
         </div>
 
         <div className="card">
@@ -67,15 +67,15 @@ export default function Shoes() {
           <p> c4 </p>
         </div>
 
-
         <div className="card">
-          <img src="pic/gray.png" alt="gray" />
+          <img src="pic/whitePink.png" alt="whitePink" />
           <p className="degem">דגם 26</p>
           <p>
             <b> נותר במידות: </b>
           </p>
-          <p> c4 </p>
+          <p> c12 </p>
         </div>
+
 
         <div className="card">
           <img src="pic/chayal.png" alt="chayal" />
@@ -92,7 +92,7 @@ export default function Shoes() {
           <p>
             <b> נותר במידות: </b>
           </p>
-          <p> c12 , c13</p>
+          <p> c13</p>
         </div>
 
         <div className="card">
@@ -101,7 +101,7 @@ export default function Shoes() {
           <p>
             <b> נותר במידות: </b>
           </p>
-          <p> c12 , c13 </p>
+          <p> c12  </p>
         </div>
         <div className="card">
           <img src="pic/brownk.png" alt="pgen" />
